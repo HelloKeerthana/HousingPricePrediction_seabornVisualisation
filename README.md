@@ -21,3 +21,5 @@
   <li><h4>Train and evaluate the model.</h4></li>
   <li><h4>Visualize results using lmplot and calculate R².</h4></li>
 </ol>
+
+:)

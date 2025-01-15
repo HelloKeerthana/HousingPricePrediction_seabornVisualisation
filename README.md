@@ -16,10 +16,8 @@
 <h3>Steps Involved:</h3>
 <ol>
   <li><h4>Load and explore the dataset.</h4></li>
-  <li><h4>Preprocess the data (handle missing values, encode features).</h4></li>
+  <li><h4>Preprocess the data.</h4></li>
   <li><h4>Split data into training and testing sets.</h4></li>
   <li><h4>Train and evaluate the model.</h4></li>
   <li><h4>Visualize results using lmplot and calculate R².</h4></li>
 </ol>
-
-<p>This project demonstrates the machine learning pipeline with effective visualization and evaluation techniques.</p>
